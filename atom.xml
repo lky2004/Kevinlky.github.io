@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lky2004.github.io</id>
     <title>Kevinlky photography</title>
-    <updated>2019-06-02T09:22:59.857Z</updated>
+    <updated>2019-06-02T09:33:42.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lky2004.github.io"/>
     <link rel="self" href="https://lky2004.github.io/atom.xml"/>
@@ -10,4 +10,16 @@
     <logo>https://lky2004.github.io/images/avatar.png</logo>
     <icon>https://lky2004.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Kevinlky photography</rights>
+    <entry>
+        <title type="html"><![CDATA[lky的第一卷胶片～]]></title>
+        <id>https://lky2004.github.io/post/lky-de-di-yi-juan-xiao-pian-~</id>
+        <link href="https://lky2004.github.io/post/lky-de-di-yi-juan-xiao-pian-~">
+        </link>
+        <updated>2019-06-02T09:24:42.000Z</updated>
+        <content type="html"><![CDATA[<p>胶片：ilford pan 100
+<img src="https://lky2004.github.io/post-images/1559467920200.JPG" alt="">
+<img src="https://lky2004.github.io/post-images/1559467996051.JPG" alt="">
+<img src="https://lky2004.github.io/post-images/1559467966818.JPG" alt=""></p>
+]]></content>
+    </entry>
 </feed>
